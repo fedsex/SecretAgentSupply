@@ -1,0 +1,27 @@
+/* General Style*/
+div{
+  display:block;
+  border: white solid 1px;
+}
+
+/*Company Header section Style*/
+.company{
+  background-color: black;
+  color: white;
+}
+
+.company . container{
+  display flex-flow:
+  align-item: centerl;
+  padding: 12px 0 12px 0.5em;
+}
+
+.container{
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.company img{
+  height: 1.5em;
+  padding-right: 15px;
+}
